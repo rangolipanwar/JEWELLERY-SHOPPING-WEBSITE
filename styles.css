@@ -1,0 +1,122 @@
+.one{
+    background-color: crimson;
+    color: darkkhaki;
+    text-align: center;
+    font-size: 30px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    background-color: crimson;
+    color: darkkhaki;
+    margin-bottom: 0%;
+}
+#a{
+    color: darkkhaki;
+    text-decoration: darkkhaki none;
+    margin: 10px;
+    margin-top: 0%;
+    
+}
+header{
+    background-color: crimson;
+    margin-bottom: 0%;
+}
+.search{
+    margin: 10px;
+    margin-top: 0%;
+}
+a{
+    text-decoration: darkkhaki none;
+    color: darkkhaki;
+    font-size: 23px;
+}
+#search{
+    border-radius: 5px;
+    background-color: darkkhaki;
+    color: crimson;
+    height: 25px;
+    width: 270px;
+    border: crimson;
+}
+.three{
+    background-color: darkkhaki;
+    margin-top: 0%;
+    display: flex;
+    justify-content: space-between;
+
+}
+h2{
+    margin-top: 0%;
+}
+h1{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.box{
+    height: 320px;
+    width: 280px;
+    background-color: crimson;
+    margin: 15px;
+    text-align: center;
+}
+img{
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+h3{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+p{
+    margin-top: 0%;
+    margin-bottom: 0px;
+}
+button{
+    height: 30px;
+    width: 180px;
+    background-color: darkkhaki;
+    color: black;
+    border-radius: 4px;
+    border-color: crimson;
+    margin-top: 8px;
+}
+footer{
+    background-color: darkkhaki;
+}
+.third{
+    background-color: darkkhaki;
+    height: 595px;
+}
+main{
+    background-color: darkkhaki;
+}
+.hello{
+    text-align: center;
+}
+.login{
+    margin: auto;
+    height: 600px;
+    width: 320px;
+    text-align: center;
+}
+input{
+    border-radius: 4px;
+}
+.good{
+    height: 500px;
+    width: 400px;
+    background-color: crimson;
+    margin: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.services{
+    display: flex;
+    justify-content: space-between;
+}
+.bad{
+    text-align: center;
+    font-size: larger;
+}
